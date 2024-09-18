@@ -1,0 +1,11 @@
+nc: 3
+path: ../egg  # dataset root dir
+train: D:\yolov5\egg\train.txt  # train images (relative to 'path') 128 images
+val: D:\yolov5\egg\val.txt # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: normal
+  1: dirty
+  2: bad
