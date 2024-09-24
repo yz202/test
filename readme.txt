@@ -7,3 +7,4 @@ git log 查看历史记录
 git push origin master “本地作了提交，就可以通过如下命令”
 git checkout -b name "创建分支"
 git branch "查看当前分支，会列出所有分支"
+测试master与fenzhi1的冲突
